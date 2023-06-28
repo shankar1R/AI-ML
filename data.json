@@ -1,0 +1,34 @@
+{
+    "Students":
+    {
+        "Student1":
+        {
+            "Name":"Shankar",
+            "Roll No":10,
+            "Class":1,
+            "phones":{
+                "num1":"+91000000000",
+                "num2":"+91000000000"
+            }
+        },
+          "Student2":
+        {
+            "Name":"Ramesh",
+            "Roll No":11,
+            "Class":2,
+             "phones":{
+                "num1":"+91000000000",
+                "num2":"+91000000000"
+        },
+          "Student3":
+        {
+            "Name":"Ravi",
+            "Roll No":12,
+            "Class":3,
+             "phones":{
+                "num1":"+91000000000",
+                "num2":"+91000000000"
+                
+        }
+    }
+}
