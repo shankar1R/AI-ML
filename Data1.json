@@ -1,7 +1,5 @@
 {
-    "students":
-    {
-        "student1":
+      "student1":
         {
             "name":"ABC",
             "rollnumber":1,
@@ -32,5 +30,4 @@
                 "num2":"+910000000000"
             }
         }
-    }
 }
